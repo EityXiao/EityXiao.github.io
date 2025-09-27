@@ -12,14 +12,13 @@ China University of Petroleum (Beijing), Exploration technology and engineering,
 
 ### Internship Experience
 Software Engineer Intern（Multimodal Recommendation）｜ JD.com Inc. | Oct 2021 – May 2022
-### Internship Experience
-
 
 ### Work Experience 
 Software Engineer（Recommender system）｜ Tencent Music Entertainment Technology | Jul 2023 – Present
 
 ### Paper
-From Abstract to Details: A Generative Multimodal Fusion Framework for Recom￾mendation. In Proceedings of the 30th ACM International Conference on Multimedia(MM’22 oral paper, https://doi.org/10.1145/3503161.3548366).
+[From Abstract to Details: A Generative Multimodal Fusion Framework for Recom￾mendation](https://doi.org/10.1145/3503161.3548366)
+. In Proceedings of the 30th ACM International Conference on Multimedia(MM’22 oral paper, ).
 
 
 
