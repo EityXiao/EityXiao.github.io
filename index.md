@@ -17,7 +17,7 @@ Software Engineer Intern（Multimodal Recommendation）｜ JD.com Inc. | Oct 202
 Software Engineer（Recommender system）｜ Tencent Music Entertainment Technology | Jul 2023 – Present
 
 ### Paper
-[From Abstract to Details: A Generative Multimodal Fusion Framework for Recom￾mendation](https://doi.org/10.1145/3503161.3548366)
+[From Abstract to Details: A Generative Multimodal Fusion Framework for Recommendation](https://doi.org/10.1145/3503161.3548366)
 . In Proceedings of the 30th ACM International Conference on Multimedia(MM’22 oral paper, ).
 
 
